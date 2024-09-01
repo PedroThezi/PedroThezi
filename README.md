@@ -54,10 +54,8 @@ I'm a Computer Engineering student in my fourth semester, passionate about data 
 <a href="https://github.com/PedroThezi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroThezi&theme=tokyonight&layout=donut&langs_count=8&card_width=320" />
 </a>
-
-
   
-![Snake animation](https://github.com/PedroThezi/PedroThezi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/<seu-usuario>/<seu-repositorio>/blob/output/snake.svg)
 
 
 ## Contact
