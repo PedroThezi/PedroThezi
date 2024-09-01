@@ -18,6 +18,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: "snake.svg"
+      - name: Debug
+        run: |
+          ls -alh
+          cat snake.svg || echo "snake.svg não encontrado"
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v2.1.3
