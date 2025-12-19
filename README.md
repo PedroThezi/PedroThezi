@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student in my fourth semester, passionate about data science, software development, and exploring new technologies. 
+I'm a Computer Engineering student, passionate about data science, data analysis, and exploring new technologies. 
 
 ## Featured Projects
 
@@ -26,8 +26,7 @@ I'm a Computer Engineering student in my fourth semester, passionate about data 
 ## Technologies and Tools
 <div>
 <img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 <img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> 
 <img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 </div> 
@@ -40,8 +39,7 @@ I'm a Computer Engineering student in my fourth semester, passionate about data 
 </div> 
 <div>
 <img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
-<img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />    
+<img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
 <img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> 
 <img align="center" loading="lazy" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
