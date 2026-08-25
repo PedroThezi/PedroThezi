@@ -8,7 +8,7 @@ Computer Engineering student at EEP, focused on **Data Analysis, Business Intell
 
 <div>
 <a href="https://github.com/PedroThezi/dolar-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroThezi&theme=city_lights&repo=dolar-tracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroThezi&theme=city_lights&repo=dolartracker" />
 </a>
 </div>
 
