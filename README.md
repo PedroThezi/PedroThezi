@@ -2,14 +2,16 @@
 
 ## About Me
 
-Computer Engineering student at EEP, focused on **Data Analysis, Business Intelligence and Data Science**. Former BI intern at Smartbreeder, where I worked with Power BI dashboards, data modeling and SQL/DAX optimization. Passionate about turning raw data into decisions — from building pipelines to shipping dashboards.
+Computer Engineering student at EEP, focused on **Data Analysis, Business Intelligence and Data Science**. Former BI intern at Smartbreeder (AgTech), where I worked with Power BI dashboards, data modeling and SQL/DAX optimization. Passionate about turning raw data into decisions — from building pipelines to shipping dashboards.
 
 ## Featured Project
 
 <div>
-<a href="https://github.com/PedroThezi/dolartracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroThezi&theme=city_lights&repo=dolartracker" />
-</a>
+
+### [📊 dolartracker](https://github.com/PedroThezi/dolartracker)
+[![Repo](https://img.shields.io/badge/GitHub-PedroThezi%2Fdolartracker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroThezi/dolartracker)
+[![Stars](https://img.shields.io/github/stars/PedroThezi/dolartracker?style=for-the-badge&color=yellow)](https://github.com/PedroThezi/dolartracker)
+
 </div>
 
 **dolar-tracker** — end-to-end data pipeline that ingests exchange rate and interest rate series (Dólar, Selic, CDI) from the Banco Central do Brasil (SGS) API. Orchestrated with **Airflow**, stored in **PostgreSQL**, containerized with **Docker Compose**, and visualized with **Power BI**, **Streamlit** and **Apache Superset**.
@@ -53,12 +55,11 @@ Computer Engineering student at EEP, focused on **Data Analysis, Business Intell
 
 ## GitHub Status
 
-<a href="https://github.com/PedroThezi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroThezi&theme=city_lights" />
+<div>
+<a href="https://github.com/PedroThezi?tab=repositories">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/PedroThezi&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=blueviolet" />
 </a>
-<a href="https://github.com/PedroThezi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroThezi&theme=city_lights&layout=donut&langs_count=8&card_width=320" />
-</a>
+</div>
 
 ## Contact
 
