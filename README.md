@@ -8,7 +8,7 @@ Computer Engineering student at EEP, focused on **Data Analysis, Business Intell
 
 <div>
 
-### [📊 dolartracker](https://github.com/PedroThezi/dolartracker)
+### [📊 dolartracker](https://github.com/PedroThezi/BCB-Tracker)
 [![Repo](https://img.shields.io/badge/GitHub-PedroThezi%2Fdolartracker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroThezi/BCB-Tracker)
 [![Stars](https://img.shields.io/github/stars/PedroThezi/dolartracker?style=for-the-badge&color=yellow)](https://github.com/PedroThezi/BCB-Tracker)
 
